@@ -28,7 +28,7 @@ function App() {
 
   return (
     <>
-      <p className="text-4xl font-extrabold text-heading mb-5">
+      <p className="text-4xl font-extrabold text-center mt-7 text-heading mb-5">
         🐈 Cat Generator
       </p>
 

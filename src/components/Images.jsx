@@ -1,6 +1,6 @@
 function Images({ images }) {
   return (
-    <div className="flex flex-col md:flex-row gap-3 justify-center">
+    <div className="flex flex-col md:flex-row gap-3 justify-center mr-3 ml-3">
       {images.slice(0, 3).map((img, index) => (
         <img
           key={index}
